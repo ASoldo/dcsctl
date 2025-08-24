@@ -29,8 +29,8 @@ A lightweight terminal dashboard for Digital Combat Simulator (DCS) telemetry, b
 Clone the repository and build:
 
 ```bash
-git clone https://github.com/yourusername/dcs-tui-dashboard.git
-cd dcs-tui-dashboard
+git https://github.com/ASoldo/dcsctl.git
+cd dcsctl
 cargo build --release
 ```
 
