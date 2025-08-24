@@ -1,3 +1,5 @@
+<img width="702" height="220" alt="image" src="https://github.com/user-attachments/assets/692c3cdb-02ce-4270-be77-7629e57fd8e2" />
+
 # DCS TUI Dashboard
 
 A lightweight terminal dashboard for Digital Combat Simulator (DCS) telemetry, built with Rust. It streams live aircraft data from DCS into a terminal user interface (TUI) using `ratatui`.
