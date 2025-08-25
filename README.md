@@ -109,6 +109,14 @@ Dependencies:
 * [crossterm](https://crates.io/crates/crossterm) for terminal control
 * [serde](https://serde.rs/) and [serde\_json](https://docs.rs/serde_json/) for parsing telemetry
 
+## Wacom Cintiq 12wx Support
+
+```sh
+cargo run --release --features wacom
+# or
+WACOM_EVENT=/dev/input/event29 cargo run --release --features wacom
+```
+
 ### Adding More Telemetry
 
 Extend the Lua export with additional `LoGet*` values and update Rust structs/UI rendering accordingly. Normalization helpers for engine and mech systems are already provided.
