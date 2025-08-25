@@ -1,4 +1,5 @@
-<img width="702" height="220" alt="image" src="https://github.com/user-attachments/assets/692c3cdb-02ce-4270-be77-7629e57fd8e2" />
+<img width="1236" height="649" alt="image" src="https://github.com/user-attachments/assets/bc71300f-aa8e-472c-80c2-16b6e803bf09" />
+
 
 # DCS TUI Dashboard
 
